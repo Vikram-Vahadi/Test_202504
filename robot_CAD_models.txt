@@ -1,3 +1,4 @@
+Here are some robot CAD models I got from a web scrape, as well as collected myself.
 https://grabcad.com/print
 https://grabcad.com/print/pro
 https://grabcad.com/print/fdm
@@ -15,12 +16,18 @@ https://www.youtube.com/watch?v=Aj1BqrQOo6o
 https://grabcad.com/shop/3d-printing-management-software
 /featured-software-partners
 /software-development-kit
+https://youtu.be/JmgQ1Imw8gY
+https://youtu.be/FlSxOhxjyoQ
+https://youtu.be/vYNTwrG7Yh8
 https://grabcad.com/library
 https://grabcad.com/challenges
+https://youtu.be/5qasFRZjS28
 https://grabcad.com/groups
 https://grabcad.com/questions
+https://youtu.be/KUO_AU5CwPI
 https://grabcad.com/tutorials
 https://grabcad.com/engineers
+https://youtu.be/ruE7HHXbmdM
 https://resources.grabcad.com/company/
 https://grabcad.com/terms
 https://grabcad.com/software_terms
