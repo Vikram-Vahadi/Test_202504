@@ -30,7 +30,7 @@ listing = listing[8:505]
 link_list = []
 
 for link in  soup.find_all('a', href = True):
-    k = 'https://archive.ics.uci.edu/ml' + '/' + link['href']
+    k = link['href']
     link_list.append(k)
 
 # Removing links which are not pointing to any dataset
